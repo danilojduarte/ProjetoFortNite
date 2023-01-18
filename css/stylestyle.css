@@ -69,4 +69,7 @@ nav ul li.btn:hover a{
     color: black;
     background: white;
     transition: .4s;
-} 
+}
+.content {
+    padding-top: 140px;
+}

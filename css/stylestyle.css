@@ -58,4 +58,15 @@ nav ul li.btn a{
     color: white;
     border: 1px solid #f5dca8;
     padding: 9px 20px;
+    border-radius: 30px;
+    line-height: 1.4;
+    font-size: 14px;
+    font-weight: 500;
+    margin-left: 150px;
 }
+nav ul li.btn:hover a{
+    border: 1px solid white;
+    color: black;
+    background: white;
+    transition: .4s;
+} 
